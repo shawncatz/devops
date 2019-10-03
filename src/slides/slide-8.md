@@ -5,5 +5,8 @@
 * Validations?
 * Vilifications?
 
+## Coming soon!
+
+* Tasty Tasty Loops: OODA Loops
 ---
 
