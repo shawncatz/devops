@@ -1,11 +1,14 @@
-# History
+# Patrick Debois and Andrew "Clay" Shafer
 
-.pull-left[
-Freddie ran many groups of dancers and performers across the US and the rest of 
-the world. A lot of the fire-based (poi, staff, baton) spinning that you see at 
-Hawaiian Luaus has roots in his original Fire Knife Dance]
-.pull-right[
-.right[![Fire Dancer](img/firedancer.jpg)]]
+* Coined the term Devops
+* Made observations about the desire of the community and industry 
+
+## Observations
+
+_really high level_
+
+* there is a increase in feedback loops between business, all parts of the delivery process and operations
+* thanks to this feedback loops we increase the quality and speed up the flow
 
 ---
 
