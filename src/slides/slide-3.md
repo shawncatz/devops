@@ -7,6 +7,7 @@
 * Agile Operations - Agile Methodology applied to Ops
 * CAMS - Culture, Automation, Measurement, Sharing
 * Configuration Management - Chef, Puppet, Salt
-
+* Team of people responsible for the product that is the platform
+  upon which all other products are built
 ---
 
